@@ -1,3 +1,3 @@
 # activity
 
-add validation
+remake the requirements file
